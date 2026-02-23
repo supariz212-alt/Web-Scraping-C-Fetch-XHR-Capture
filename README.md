@@ -566,17 +566,6 @@ ENTRYPOINT ["dotnet", "Scraper.Runner.dll"]
 
 ---
 
-## 🎬 Demo Video
-
-**3-Minute Loom Walkthrough:** [Link to be provided]
-
-**What the video covers:**
-1. Architecture explanation (30s)
-2. Code walkthrough (90s)
-3. Live demo execution (60s)
-
----
-
 ## 🤝 Why This Architecture
 
 **For the Client:**
@@ -592,14 +581,6 @@ ENTRYPOINT ["dotnet", "Scraper.Runner.dll"]
 - ✅ **Documentation:** Every class, method documented
 - ✅ **Examples:** Demo site included
 - ✅ **Extensibility:** New developers can add sites easily
-
----
-
-## 📞 Contact
-
-**GitHub Repository:** https://github.com/YOUR_USERNAME/playwright-scraper-demo  
-**Live Demo:** [Loom video link]  
-**Upwork Profile:** [Your profile link]
 
 ---
 
