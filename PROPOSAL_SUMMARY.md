@@ -2,8 +2,7 @@
 
 ## What I'm Delivering
 
-**GitHub Demo:** https://github.com/YOUR_USERNAME/playwright-scraper-demo  
-**Loom Video:** [3-minute walkthrough - will record after selection]  
+**GitHub Demo:** https://github.com/YOUR_USERNAME/playwright-scraper-demo   
 **Investment:** $3,500 - $5,500 (depending on production features)
 
 ---
@@ -114,6 +113,3 @@ Total: 2-3 weeks depending on scope
 4. Kickoff
 
 Ready to start immediately.
-
-Best regards,  
-[Your Upwork Profile]
