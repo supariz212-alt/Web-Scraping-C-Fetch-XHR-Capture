@@ -1,8 +1,7 @@
 # Proposal for .NET 8 XHR Interceptor Scraper
 
 ## What I'm Delivering
-
-**GitHub Demo:** https://github.com/YOUR_USERNAME/playwright-scraper-demo   
+ 
 **Investment:** $3,500 - $5,500 (depending on production features)
 
 ---
